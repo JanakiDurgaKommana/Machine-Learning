@@ -1,13 +1,12 @@
 # Machine-Learning
 Face Recognition by using Linear Discriminant Analysis
-----------------------------------------------
-The main aim of this project is to learn about principal component analysis(PCA), Linear Discriminant analysis(LDA) and finding which one of them is giving better accuracy for face recognition.
+-The main aim of this project is to learn about principal component analysis(PCA), Linear Discriminant analysis(LDA) and finding which one of them is giving better accuracy for face recognition.
 -----------------------------------------------
 Developed in : Python
 -----------------------------------------------
 Run:
 -----------------------------------------------
-	Open the given .ipynb file 'LDA_Face.ipynb' using Jupyter Notebook.Add the input data folder to the directory where .ipynb file is located.Run the code cell by 		cell to print the output images.
+-Open the given .ipynb file 'LDA_Face.ipynb' using Jupyter Notebook.Add the input data folder to the directory where .ipynb file is located.Run the code cell by cell to print the output images.
 ---------------------------------------------
 Required packages:
 ------------------------------------------------
